@@ -6,8 +6,6 @@ for key in bio.keys():
 for value in bio.values():
       print(value);
 
-for (key,value) in bio.items():
-      print(key,"is",value);
 
 if key == "name" or key == "phone":
            print(value);

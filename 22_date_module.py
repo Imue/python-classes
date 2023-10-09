@@ -11,5 +11,6 @@ print(ts.second);
 print(ts.microsecond);
 print(ts.astimezone());
 print(ts.weekday());
+print()
 #monday=0
 #sunday=6
